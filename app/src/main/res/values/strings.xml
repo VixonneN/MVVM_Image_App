@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVVM Image App</string>
+    <string name="write_text">Введите текст</string>
+    <string name="description">description</string>
+</resources>
